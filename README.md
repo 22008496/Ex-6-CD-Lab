@@ -58,6 +58,9 @@ C=a-b
 ```
 ## OUTPUT:
 
+![Screenshot 2024-11-13 172509](https://github.com/user-attachments/assets/1670ea8d-8da7-4306-9e41-07b713289960)
+
+
 ![Screenshot 2024-11-11 110955](https://github.com/user-attachments/assets/763cf8ef-be50-4e72-a886-f860aeacc984)
 
 ## RESULT:
